@@ -1,4 +1,4 @@
-<h1 align="left">seja muito bem vindo ao meu Perfil!</h1>
+<h1 align="left">Seja muito bem vindo ao meu Perfil!</h1>
 
 ###
 
