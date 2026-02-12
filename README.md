@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">An IT professional with experience in web design, programming, computer maintenance, and information security, currently pursuing a Software Engineering degree at IDP. Skilled in Java, Python, and technical support, with a background in the Detran and as a teacher at Bravus.</p>
+<p align="center">Software Engineering student with focus on Artificial Intelligence and Data Analysis. Experience transforming data into strategic decisions at the Ministry of Justice and leading award-winning innovation projects (1st place Demoday). Specialist in optimizing workflows through automation and Generative AI tools, with proven results in increased delivery speed (reduction from 60 days to 14 days) and reduction of manual errors.</p>
 
 ###
 
